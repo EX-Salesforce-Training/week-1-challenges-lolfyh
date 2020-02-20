@@ -1,4 +1,7 @@
 public class ChallengeTwo {
+     /*Sergio Ramirez
+     * Yinghao Fu 
+     */
     public void ForLoop(){
         list<Integer>numlist = new list<Integer>{};
             for(Integer i = 1; i <=10;i++){
