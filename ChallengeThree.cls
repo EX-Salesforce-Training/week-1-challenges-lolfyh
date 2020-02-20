@@ -1,4 +1,7 @@
 public class ChallengeThree {
+	 /*Sergio Ramirez
+     * Yinghao Fu 
+     */
 	Account C3Account = new Account();
     public void setAccount(){
         c3Account.Name = 'Jimbo JON';
